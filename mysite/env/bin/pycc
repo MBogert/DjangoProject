@@ -1,0 +1,3 @@
+#!/Users/matthew.bogert/Desktop/DjangoProject/mysite/env/bin/python3
+from numba.pycc import main
+main()
